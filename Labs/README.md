@@ -32,19 +32,34 @@
 <img width="491" height="866" alt="Screenshot 2026-09-12 164840" src="https://github.com/user-attachments/assets/ea2aff63-d1dc-4c90-8656-d8655765c1d5" />
 
 [3rdSet Up a Desktop Computer.pdf](https://github.com/user-attachments/files/32150824/3rdSet.Up.a.Desktop.Computer.pdf)
+
 [2ndLab-Install USB Devices.pdf](https://github.com/user-attachments/files/32150822/2ndLab-Install.USB.Devices.pdf)
+
 <img width="459" height="869" alt="Screenshot 2026-09-12 165357" src="https://github.com/user-attachments/assets/4b839e09-c973-41b0-95c4-f15175aa0199" />
+
 [Support Windows OS.pdf](https://github.com/user-attachments/files/32150855/Support.Windows.OS.pdf)
+
 <img width="322" height="912" alt="Screenshot 2026-09-12 165325" src="https://github.com/user-attachments/assets/10c80223-62a0-4652-ad03-3ec0108e4ae5" />
+
 [secuirty -Implement Physical Security.pdf](https://github.com/user-attachments/files/32150846/secuirty.-Implement.Physical.Security.pdf)
+
 [Safe Browsing Best Practices.pdf](https://github.com/user-attachments/files/32150845/Safe.Browsing.Best.Practices.pdf)
+
 [Learning Platform _ CompTIA.pdf](https://github.com/user-attachments/files/32150844/Learning.Platform._.CompTIA.pdf)
+
 <img width="291" height="668" alt="Screenshot 2026-09-12 165223" src="https://github.com/user-attachments/assets/e38684d3-ff9f-49b8-a945-352982a95af4" />
+
 [Enforce Password Settings.pdf](https://github.com/user-attachments/files/32150836/Enforce.Password.Settings.pdf)
+
 [Connect to WiFi.pdf](https://github.com/user-attachments/files/32150835/Connect.to.WiFi.pdf)
+
 [Configure Remote Wipe.pdf](https://github.com/user-attachments/files/32150833/Configure.Remote.Wipe.pdf)
+
 <img width="651" height="908" alt="Screenshot 2026-09-12 165116" src="https://github.com/user-attachments/assets/0a6e8262-3b2b-4934-ac95-944b3ba5de1d" />
+
 [6thLabSelect and Configure Dual Monitors.pdf](https://github.com/user-attachments/files/32150832/6thLabSelect.and.Configure.Dual.Monitors.pdf)
+
 [5th Upgrade a Video Card.pdf](https://github.com/user-attachments/files/32150830/5th.Upgrade.a.Video.Card.pdf)
+
 <img width="313" height="795" alt="Screenshot 2026-09-12 165022" src="https://github.com/user-attachments/assets/ab6eecff-39d9-474f-b7d3-1ba8a98ac478" />
 
