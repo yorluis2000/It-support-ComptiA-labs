@@ -1,4 +1,4 @@
----
+***
 
 # 🖥️ Domain 1: Hardware Provisioning & Workstation Deployment
 *Demonstrating proficiency in assembling, upgrading, and deploying end-user workstations in a corporate environment.*
@@ -27,7 +27,8 @@
 * **Remote Wipe & Asset Control:** Executed remote device wipes via iCloud to secure compromised or lost corporate iPads, pushing custom recovery messages to the locked screens[cite: 8].
 * **Secure Wi-Fi Provisioning:** Provisioned mobile devices to secure corporate networks (CorpNet) while disabling auto-join features for public hotspots to prevent man-in-the-middle (MitM) vulnerabilities[cite: 9].
 
----
+***
+
 <img width="491" height="866" alt="Screenshot 2026-09-12 164840" src="https://github.com/user-attachments/assets/ea2aff63-d1dc-4c90-8656-d8655765c1d5" />
 
 [3rdSet Up a Desktop Computer.pdf](https://github.com/user-attachments/files/32150824/3rdSet.Up.a.Desktop.Computer.pdf)
